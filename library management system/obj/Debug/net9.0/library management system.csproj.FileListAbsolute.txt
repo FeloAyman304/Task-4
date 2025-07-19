@@ -1,0 +1,14 @@
+A:\Eraa soft\codes\library management system\bin\Debug\net9.0\library management system.exe
+A:\Eraa soft\codes\library management system\bin\Debug\net9.0\library management system.deps.json
+A:\Eraa soft\codes\library management system\bin\Debug\net9.0\library management system.runtimeconfig.json
+A:\Eraa soft\codes\library management system\bin\Debug\net9.0\library management system.dll
+A:\Eraa soft\codes\library management system\bin\Debug\net9.0\library management system.pdb
+A:\Eraa soft\codes\library management system\obj\Debug\net9.0\library management system.GeneratedMSBuildEditorConfig.editorconfig
+A:\Eraa soft\codes\library management system\obj\Debug\net9.0\library management system.AssemblyInfoInputs.cache
+A:\Eraa soft\codes\library management system\obj\Debug\net9.0\library management system.AssemblyInfo.cs
+A:\Eraa soft\codes\library management system\obj\Debug\net9.0\library management system.csproj.CoreCompileInputs.cache
+A:\Eraa soft\codes\library management system\obj\Debug\net9.0\library management system.dll
+A:\Eraa soft\codes\library management system\obj\Debug\net9.0\refint\library management system.dll
+A:\Eraa soft\codes\library management system\obj\Debug\net9.0\library management system.pdb
+A:\Eraa soft\codes\library management system\obj\Debug\net9.0\library management system.genruntimeconfig.cache
+A:\Eraa soft\codes\library management system\obj\Debug\net9.0\ref\library management system.dll
